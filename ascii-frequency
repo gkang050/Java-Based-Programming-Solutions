@@ -12,7 +12,8 @@ public class FreqTableExampleOriginal {
     public static final int NUM_ASCII_CHAR = 128;
 
     // program to create a frequency table.
-    // Example of simple try catch blocks to deal with checked exceptions
+    // Example of simple try catch blocks to deal with checked exceptions.
+    
     public static void main(String[] args)
         {
 
@@ -52,6 +53,7 @@ public class FreqTableExampleOriginal {
 
     // return sum of ints in list
     // list may not be null
+    
     private static int sum(int[] list) {
         assert list != null : "Failed precondition, sum: parameter list" +
             " may not be null.";
