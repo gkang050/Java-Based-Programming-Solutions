@@ -1,3 +1,5 @@
+// implementing 2-D array
+
 import java.util.Scanner;
 
 public class Life {
