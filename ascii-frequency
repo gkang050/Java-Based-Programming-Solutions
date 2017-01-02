@@ -68,9 +68,10 @@ public class FreqTableExampleOriginal {
     // pre: url != null
     // Connect to the URL specified by the String url.
     // Map characters to index in array.
-    // All non ASCII character dumped into one element of array
-    // If IOException occurs message printed and array of
+    // All non ASCII character dumped into one element of array.
+    // If IOException occurs message printed and array of.
     // length 0 returned.
+    
     public static int[] createFreqTableURL (String url){
         if(url == null)
             throw new IllegalArgumentException("Violation of precondition. parameter url must not be null.");
