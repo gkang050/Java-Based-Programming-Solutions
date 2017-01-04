@@ -1,3 +1,5 @@
+// for loop extension
+
 public class EnhancedFor
 {
 	public static void main(String[] args)
