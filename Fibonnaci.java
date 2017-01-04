@@ -1,4 +1,4 @@
-// fibonacci sequence
+// fibonacci sequence program
 
 class FibonacciExample1{  
 public static void main(String args[])  
